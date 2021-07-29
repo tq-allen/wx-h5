@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["other"],{b7e7:function(r,t,a){"use strict";a.r(t);var e=function(){var r=this,t=r.$createElement,a=r._self._c||t;return a("iframe",{attrs:{src:r.iframUrl,frameborder:"0"}})},n=[],i={name:"Other",data:function(){return{adsUrl:["http://www.baidu.com","http://www.163.com"],iframUrl:""}},created:function(){var r=Math.random(),t=r>.5?0:1;this.iframUrl=this.adsUrl[t]}},c=i,l=a("2877"),o=Object(l["a"])(c,e,n,!1,null,null,null);t["default"]=o.exports}}]);
-//# sourceMappingURL=other.c6683f4f.js.map
